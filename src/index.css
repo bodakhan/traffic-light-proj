@@ -25,6 +25,7 @@ main {
   width: 40%;
   outline: 5px solid black;
   border-radius: 10px;
+  margin: 20px 0 20px 0;
 }
 
 .traffic-light-box {
@@ -37,8 +38,6 @@ main {
 }
 
 .traffic-light-box h2 {
-  padding: 0px;
-  margin: 0px;
   margin: 20px;
   color: white;
 }
