@@ -2,7 +2,7 @@ html,
 body {
   padding: 0px;
   margin: 0px;
-  background-color: lightblue;
+  background-color: lightskyblue;
 }
 
 main {
@@ -59,17 +59,18 @@ main {
   height: 120px;
   width: 120px;
   border-radius: 100%;
-  border: 3px solid black;
+  border: 5px solid black;
 }
 
 .next-state-button {
   padding: 10px;
   font-size: 20px;
+  font-weight: 900;
   margin: 20px 0 20px 0;
   border-radius: 10px;
-  background-color: black;
-  color: white;
-
+  background-color: lightskyblue;
+  color: black;
+  border: 5px solid black;
 }
 
 .black {

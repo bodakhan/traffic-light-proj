@@ -32,7 +32,7 @@ export const FunctionalTrafficLight = () => {
         ))}
       </div>
       <button onClick={applyColorChange} className="next-state-button">
-        Next State
+        NEXT STATE
       </button>
     </div>
   );

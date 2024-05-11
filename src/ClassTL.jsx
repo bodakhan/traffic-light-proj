@@ -35,7 +35,7 @@ export class ClassTrafficLight extends Component {
           ))}
         </div>
         <button onClick={this.nextColor} className="next-state-button">
-          Next State
+          NEXT STATE
         </button>
       </div>
     );
